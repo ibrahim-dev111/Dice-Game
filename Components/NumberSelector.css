@@ -1,0 +1,16 @@
+
+
+@media only screen and (max-width:526px) {
+    .Numbers-container{
+        width: 100%;
+       
+    }
+
+    .Numbers-container .flex .Box{
+        gap:5px;
+        border-radius: 6px;
+    }
+    p{
+        text-align: start;
+    }
+}
